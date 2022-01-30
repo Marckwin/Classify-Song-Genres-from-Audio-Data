@@ -1,6 +1,6 @@
 # Classify Song Genres from Audio Data
  Applying machine learning methods in Python to classify songs into genres.
-#Tasks
+# Tasks
  * Preparing our dataset
  * Pairwise relationships between continuous variables
  * Normalizing the feature data
